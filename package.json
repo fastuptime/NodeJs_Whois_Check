@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-whios-check",
+  "name": "nodejs-whois-check",
   "version": "1.0.0",
   "description": "NodeJS Whois Check",
   "main": "index.js",
